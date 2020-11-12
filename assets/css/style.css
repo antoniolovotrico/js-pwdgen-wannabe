@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+}
+
+#insecure_pass {
+    color: lightcoral;
+    border: 2px solid blue;
+    border-radius: 10px;
+    width: 40%;
+    margin: 50px auto;
+}
